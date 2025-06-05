@@ -294,4 +294,3 @@ function START()
 }
 
 START
-# Credits: ChatGPT.com, github
